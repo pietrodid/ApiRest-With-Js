@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pietrodid/ApiRest-With-Js/issues"
   },
-  "homepage": "https://github.com/pietrodid/ApiRest-With-Js#readme"
+  "homepage": "https://github.com/pietrodid/ApiRest-With-Js#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
